@@ -45,4 +45,6 @@ HTML
 CSS
 
 js
+🤟If you like it
 
+You can clone or fork this repo as a theme for your website. Because it doesn't use any plugins, you can easily host it on GitHub Pages. Even so, I recommend cloning your fork locally to create and preview your posts, regardless of where you choose to publish.
