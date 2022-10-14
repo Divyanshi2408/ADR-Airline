@@ -1,6 +1,6 @@
-ADR-Airline
+<b><h1>ADR-Airline</h1></b>
 
-Website Preview
+<b>Website Preview</b>
 
 Home Page
 
@@ -16,11 +16,11 @@ contact page
 
 ![ro](https://user-images.githubusercontent.com/85859444/146957416-45d4f04a-ef9b-4061-84f8-9a27b91a76fa.PNG)
 
-👇Demo
+👇<b>Demo</b>
 
 [Visit🚀]( https://divyanshi2408.github.io/ADR-Airline/)
 
-Features 📋
+<b>Features</b> 📋
 
 ⚡️ Fully Responsive
 
@@ -28,7 +28,7 @@ Features 📋
 
 ⚡️ Easy to modify
 
-Sections 📚
+<b>Sections</b> 📚
 
 ✔️ login
 
@@ -38,13 +38,14 @@ Sections 📚
 
 ✔️ contact us
 
-🛠️Technologies used
+🛠️<b>Technologies used</b>
 
 HTML
 
 CSS
 
 js
-🤟If you like it
+
+🤟<b>If you like it</b>
 
 You can clone or fork this repo as a theme for your website. Because it doesn't use any plugins, you can easily host it on GitHub Pages. Even so, I recommend cloning your fork locally to create and preview your posts, regardless of where you choose to publish.
